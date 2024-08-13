@@ -1,7 +1,12 @@
 import "./App.css";
+import TotalRevuenue from "./totalRevenue/TotalRevuenue";
 
 function App() {
-  return <>Week 2 Assignment</>;
+  return (
+    <>
+      <TotalRevuenue />
+    </>
+  );
 }
 
 export default App;
