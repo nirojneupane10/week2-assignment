@@ -1,0 +1,20 @@
+{
+  "name": "week2-assignment",
+  "version": "1.0.1",
+  "description": "SalesData",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nirojneupane10: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@github.com/nirojneupane10/week2-assignment.git"
+  },
+  "author": "Niroj Neupane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirojneupane10/week2-assignment/issues"
+  },
+  "homepage": "https://github.com/nirojneupane10/week2-assignment#readme"
+}
