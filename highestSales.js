@@ -1,5 +1,5 @@
 //Calculation of the product with highest sales
-import { salesData } from "./salesData.js";
+import salesData from "./salesData.json" assert { type: "json" };
 
 const totalSales = salesData.reduce((acc, { product, price, quantity }) => {
   const total = price * quantity;
