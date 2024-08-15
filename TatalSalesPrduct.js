@@ -1,3 +1,5 @@
+//Total Sales of Each product
+
 import salesData from "./salesData.json" assert { type: "json" };
 
 const totalSales = salesData.reduce((acc, { product, price, quantity }) => {
